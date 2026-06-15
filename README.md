@@ -9,8 +9,8 @@ I am a M.S. in Cell and Gene Therapies candidate at Northeastern University with
 ## Projects
 ### Mass Spectrometry Proteomics
 * [BrainDecode](https://github.com/alexmaropakis/BrainDecode) - a pipeline for investigating the role of substituted amino acid peptides in aging and neurodegeneration using mass spectrometry proteomics datasets.
-* [MaxQuant in Linux Tutorial](https://github.com/alexmaropakis/MaxQuant_Linux_Tutorial)
-* [FragPipe in Linux Tutorial](https://github.com/alexmaropakis/FragPipe_Linux_Tutorial) (WIP)
+* [MaxQuant in Linux Tutorial](https://github.com/alexmaropakis/MaxQuant_Linux_Tutorial) - an updated tutorial for using the quantitative proteomics search engine MaxQuant in Linux environments.
+* [FragPipe in Linux Tutorial](https://github.com/alexmaropakis/FragPipe_Linux_Tutorial) (WIP) - an updated tutorial for using the quantitative proteomics search engine FragPipe in Linux environments, particularly for the AAS project (ref. BrainDecode).
 
 ### Behavioral Analysis Pipelines 
 * [PraxisDAP](https://github.com/alexmaropakis/PraxisDAP) (WIP) - a data analysis pipeline for data produced from closed-loop, optogenetic licking and lever pressing tasks.
