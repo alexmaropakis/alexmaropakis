@@ -16,4 +16,4 @@ I am a M.S. in Cell and Gene Therapies candidate at Northeastern University with
 * [PraxisDAP](https://github.com/alexmaropakis/PraxisDAP) (WIP) - a data analysis pipeline for data produced from closed-loop, optogenetic licking and lever pressing tasks.
 
 ### Other 
-* [ObscuraApp](https://github.com/alexmaropakis/ObscurApp) - an unofficial app for storing character and circle sheets for the tabletop roleplaying game Candela Obsucura, developed by [Critical Role](https://critrole.com/shows/candela-obscura/)'s publishing company Darrington Press. 
+* [ObscuraApp](https://github.com/alexmaropakis/ObscurApp) - an unofficial app for storing character and circle sheets for the tabletop roleplaying game Candela Obscura, developed by [Critical Role](https://critrole.com/shows/candela-obscura/)'s publishing company Darrington Press. 
