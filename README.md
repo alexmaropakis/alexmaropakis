@@ -3,7 +3,7 @@
 I am a M.S. in Cell and Gene Therapies candidate at Northeastern University with a B.S. in Behavioral Neuroscience. I am currently conducting research in the fields of systems and computational proteomics-based neuroscience in the Sabatini Lab at Harvard Medical School, and Slavov Lab at Northeastern University, respectively. 
 
 ## Research
-* My work at the [Slavov Lab](https://slavovlab.net/) aims to understand the role of alternative RNA decoding in neurodegeneration and aging, using a mass spectrometry proteomics-based approach. 
+* My work at the [Slavov Lab](https://slavovlab.net/) aims to understand the role of alternate RNA decoding in neurodegeneration and aging, using a mass spectrometry proteomics-based approach. 
 * My work at the [Sabatini Lab](https://sabatini.hms.harvard.edu/) aims to study how dopaminergic modulation of striatal circuits is involved in learning, motivation, and movement using closed-loop _in vivo_ optogenetics. 
 
 ## Projects
@@ -12,7 +12,7 @@ I am a M.S. in Cell and Gene Therapies candidate at Northeastern University with
 * [MaxQuant in Linux Tutorial](https://github.com/alexmaropakis/MaxQuant_Linux_Tutorial) - an updated tutorial for using the quantitative proteomics search engine MaxQuant in Linux environments.
 * [FragPipe in Linux Pipeline for the AAS Project](https://github.com/alexmaropakis/FragPipe_Linux_Tutorial) - a pipeline for using the quantitative proteomics search engine FragPipe in Linux environments, particularly for the AAS project (ref. BrainDecode) but also generalizable for database searches using FASTAs without custom peptide appended. Currently optimized for DDA multiplexed data, label-free & DIA submissions are a WIP.
 
-### Behavioral Analysis Pipelines 
+### Behavioral Data Analysis Pipelines
 * [PraxisDAP](https://github.com/alexmaropakis/PraxisDAP) (WIP) - a data analysis pipeline for data produced from closed-loop, optogenetic licking and lever pressing tasks.
 
 ### Other 
